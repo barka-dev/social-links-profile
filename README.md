@@ -22,7 +22,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [https://github.com/barka-dev/social-links-profile.git](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://barka-dev.github.io/social-links-profile/](https://your-live-site-url.com)
 
 ## My process
 
